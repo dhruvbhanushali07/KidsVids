@@ -249,7 +249,7 @@ app/
 ### 🧠 State & Logic
 - ViewModel (Lifecycle)
 - Kotlin Coroutines
-- StateFlow / LiveData (if used)
+- StateFlow 
 
 ### 🗄 Local Storage
 - Room Database  
@@ -258,8 +258,7 @@ app/
 
 ### 🎞 Video Playback
 - Media3 ExoPlayer  
-- Media3 UI  
-- DASH support  
+- Media3 UI    
 
 ### ☁ Cloud Storage
 - Cloudinary public video URLs
