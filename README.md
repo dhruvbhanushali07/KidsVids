@@ -6,13 +6,6 @@ KidsVids is a kid-friendly online video library where parents can create profile
 
 ---
 
-## 📱 Screenshots
-Great — I’ll now generate your **Screenshots section with captions**, using **your exact images in perfect order**.
-
-Everything is formatted cleanly, mobile-optimized, aligned, and readable on GitHub.
-
----
-
 # 📱 **Screenshots**
 
 ## 🔐 Authentication
