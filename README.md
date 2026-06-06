@@ -183,9 +183,6 @@ KidsVids is a kid-friendly online video library where parents can create profile
   - other metadata  
 
 ### 🏗 Architecture
-Your app uses a clean, simple, scalable architecture:
-
-
 
 UI Screens (Compose)
 ↓
@@ -299,7 +296,6 @@ implementation("androidx.compose.material:material-icons-extended")
 ## 🛡 License
 
 This project is for educational and portfolio purposes.
-(If you'd like MIT license added, I can include it.)
 
 ---
 
